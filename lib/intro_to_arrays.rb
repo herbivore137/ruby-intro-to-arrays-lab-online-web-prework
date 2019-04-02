@@ -21,3 +21,9 @@ end
 def last_element(array)
   array[-1]
 end
+
+#using ruby array methods to return values from an array
+
+def first_element_with_array_methods
+  
+end
