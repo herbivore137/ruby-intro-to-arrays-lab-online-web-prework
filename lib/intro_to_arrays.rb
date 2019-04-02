@@ -24,6 +24,7 @@ end
 
 #using ruby array methods to return values from an array
 
-def first_element_with_array_methods
+def first_element_with_array_methods(array)
+  array.shift
   
 end
